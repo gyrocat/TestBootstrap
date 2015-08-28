@@ -1,0 +1,10 @@
+{
+  "name": "TestBootstrap",
+  "version": "0.0.0",
+  "description": "TestBootstrap",
+  "main": "server.js",
+  "author": {
+    "name": "cat",
+    "email": ""
+  }
+}
